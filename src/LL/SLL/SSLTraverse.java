@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 
 /**
  * Traversal of Singly Linked List

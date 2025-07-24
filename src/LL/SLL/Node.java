@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 
 class Node {
     int data;

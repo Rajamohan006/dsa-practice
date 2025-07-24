@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 
 import java.util.ArrayList;
 import java.util.List;

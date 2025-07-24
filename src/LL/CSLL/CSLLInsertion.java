@@ -1,4 +1,4 @@
-package CSLL;
+package LL.CSLL;
 
 public class CSLLInsertion {
     public static Node deleteLastNode(Node last){

@@ -1,4 +1,4 @@
-package CSLL;
+package LL.CSLL;
 
 public class Node {
     int data;

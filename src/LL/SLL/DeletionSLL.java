@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 
 /**
  * Check if the head is NULL.

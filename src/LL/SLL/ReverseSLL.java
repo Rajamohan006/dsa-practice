@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 /*
 public class ReverseSLL {
     static Node reverseList(Node head){

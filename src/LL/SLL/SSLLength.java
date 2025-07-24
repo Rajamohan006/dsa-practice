@@ -1,4 +1,4 @@
-package SLL;
+package LL.SLL;
 
 /**
  * Steps to find the length of the Linked List:

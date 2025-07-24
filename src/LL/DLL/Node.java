@@ -1,4 +1,4 @@
-package DLL;
+package LL.DLL;
 
 public class Node {
     int data;

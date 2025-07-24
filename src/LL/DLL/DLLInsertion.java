@@ -1,4 +1,4 @@
-package DLL;
+package LL.DLL;
 
 public class DLLInsertion {
     static Node deleteAtEnd(Node head){

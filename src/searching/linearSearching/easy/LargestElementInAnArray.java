@@ -1,6 +1,4 @@
-package searching;
-
-import java.lang.reflect.Array;
+package searching.linearSearching.easy;
 
 /**
  * Test case 1:
